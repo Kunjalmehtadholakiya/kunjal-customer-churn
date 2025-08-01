@@ -1,0 +1,9 @@
+machine-learning
+classification
+binary-classification
+churn-prediction
+classification-algorithm
+churn-user-prediction
+churn-analysis
+customer-churn-prediction
+churn-modelling
